@@ -1,4 +1,4 @@
-package com.home.demos.documents;
+package main.java.com.home.demos.documents;
 
 import org.springframework.stereotype.Component;
 

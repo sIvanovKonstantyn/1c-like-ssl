@@ -3,4 +3,4 @@ target/
 logs
 .mvn
 .idea
-ui-component/my-app/node_modules
+analytical-logs/ui-component/my-app/node_modules

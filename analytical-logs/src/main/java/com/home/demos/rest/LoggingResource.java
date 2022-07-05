@@ -1,15 +1,8 @@
-package com.home.demos.rest;
+package main.java.com.home.demos.rest;
 
-import com.home.demos.services.LoggingService;
+import main.java.com.home.demos.services.LoggingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
-import java.util.Stack;
-import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/logging")

@@ -1,6 +1,6 @@
-package com.home.demos.rest;
+package main.java.com.home.demos.rest;
 
-import com.home.demos.documents.LoggingDemoDocument;
+import main.java.com.home.demos.documents.LoggingDemoDocument;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

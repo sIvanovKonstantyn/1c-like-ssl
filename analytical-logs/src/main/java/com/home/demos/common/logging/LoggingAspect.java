@@ -1,4 +1,4 @@
-package com.home.demos.common.logging;
+package main.java.com.home.demos.common.logging;
 
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
