@@ -9,5 +9,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>analytical-logs</module>
+		<module>user-management</module>
 	</modules>
 </project>
